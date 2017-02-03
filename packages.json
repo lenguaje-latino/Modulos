@@ -1,9 +1,14 @@
 {
 	"packages":[
                 {
-                        "name": "colores",
-			"version": 0,
-			"main": "colores/colores.lat"
+                        "Name": "Colores",
+			"Description": "Librería de colores para Latino.",
+			"Author": "Latino",
+			"Version": 1.0,
+			"Path": "colores/",
+			"Files":[
+                                "colores.lat"
+                        ],
                 }
         ]
 }
