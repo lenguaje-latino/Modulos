@@ -2,7 +2,8 @@
 	"packages":[
                 {
                         "name": "colores",
-                        "dir": ""
+			"version": 0,
+			"main": "colores/colores.lat"
                 }
         ]
 }
